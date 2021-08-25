@@ -1,0 +1,24 @@
+body{
+    font-family: cursive;
+    background-image:url("https://www.thebalancesmb.com/thmb/ShMU_fTyaQ19K4pSKC1LEFNFXKk=/950x0/filters:max_bytes(150000):strip_icc():format(webp)/smart-goal-examples-2951827_final-5b6887cc46e0fb0050aa0bc9.png");
+    font-weight: 300;
+    border:purple;
+    border-style: groove;
+    text-align: center;
+}
+h1{
+    color: rgb(119, 11, 74);
+}
+button{
+    border-radius: 65px;
+    width:100px;
+    height: 50px;
+    background-color: rgb(148, 10, 51);
+    color:white;
+    cursor: pointer;
+}
+img{
+    border-radius: 100px;
+    width: 300px;
+    height: 200px;
+}
